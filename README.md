@@ -1,2 +1,2 @@
-# yyyoink-ws
-application:Compression, Binary, and LLM Toolkit WebSockets
+# craft-ws
+application:LLM WebSockets
